@@ -9,7 +9,7 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-           <h2 class="text-center">Hello World! DEV3L - v2.0</h2>
+           <h2 class="text-center">unkown project</h2>
            <h1 class="text-center">YOHANNA TAIKNYA GEDE SEKALI, BAUK LAGI. . . .!</h1>
   </div>
 </body>
