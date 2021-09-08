@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
            <h2 class="text-center">Hello World! DEV3L - v2.0</h2>
-           <h1 class="text-center">Hello World! DEV3L - v2.0</h1>
+           <h1 class="text-center">YOHANNA I LOPE U TAPI BOONG</h1>
   </div>
 </body>
 </html>
