@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
            <h2 class="text-center">unkown project</h2>
-           <h1 class="text-center">HAHAHAHA ANA SILIT E MAMBU. . . .</h1>
+           <h1 class="text-center">GUYS AKU JUALAN TAHU WALIK YA !</h1>
   </div>
 </body>
 </html>
