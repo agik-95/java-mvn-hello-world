@@ -9,8 +9,8 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-           <h2 class="text-center">unkown project</h2>
-           <h1 class="text-center">TAHU WALIK TUMI !</h1>
+           <h2 class="text-center">open it?</h2>
+           <h1 class="text-center">UNDANGAN NIKAH</h1>
   </div>
 </body>
 </html>
