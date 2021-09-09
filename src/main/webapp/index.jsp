@@ -10,7 +10,8 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
            <h2 class="text-center">open it?</h2>
-           <h1 class="text-center">UNDANGAN NIKAH</h1>
+           <h1 class="text-center">UNDANGAN NIKAH</h1> 
+           <div class="btn btn-succes">buka dulu nanti nyesel</div>
   </div>
 </body>
 </html>
